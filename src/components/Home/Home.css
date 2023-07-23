@@ -1,0 +1,111 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width:400px){
+    
+}
+
+@media screen and (min-width:401px) and (max-width:700px){
+    
+}
+
+@media screen and (min-width:701px) and (max-width:1200px){
+    .home-container{
+            justify-content: center;
+    }
+}
+
+@media screen and (min-width:1221px) and (max-width:1304px){
+        
+}
+
+
+.homepage{
+    width: 100%;
+    height:auto;
+}
+.homerow{
+    width: 98%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+.home-container{
+    width: 23%;
+    margin-top: 10px;
+    border:1px solid rgb(210, 207, 207);
+    margin-right:10px;
+    margin-bottom: 15px;
+    box-shadow: 0px 0px 5px rgb(210, 207, 207);;
+}
+
+.image-container{
+    width: 100%;
+    background-color: rgb(216, 214, 214);
+}
+
+.image{
+    object-fit: contain;
+    text-align: center;
+}
+
+.details{
+    width:100%;
+    margin:0px auto;
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    padding: 5px 0px;
+
+}
+
+.details-info{
+    width:90%;
+    margin:2px auto;
+    align-items: center;
+    display: flex;
+    justify-content: left;
+    
+}
+
+.detailsicons{
+    width:10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.operations{
+    width:100%;
+    display: flex;
+    padding: 10px 0px;
+    justify-content: space-evenly;
+    align-items: center; 
+    text-align: center;   
+    border: 0.5px solid rgb(210, 207, 207);
+    background-color:rgb(237, 233, 233); ;
+}
+
+.operations-icons{
+    width:25%;  
+}   
+
+.operations-icons button{
+    border: none;
+    padding: 0px 5px;
+}
+
+.btn{
+   width:70%;
+   border:transparent;
+   height:26px;
+}
+
+.heart{
+    align-items: center;
+    font-size:18px;
+}

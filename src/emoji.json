@@ -1,0 +1,218 @@
+[
+    {
+        "id":"1",
+        "username":"souravp55",
+        "name":"Sourav",
+        "email":"souravpadmaraj@gmail.com",
+        "phone":"9110263636",
+        "website":"http://sourav.org",
+        "address":{
+            "street":"#201,5th A main 6th cross Vijayanagar",
+            "suite":"RPC layout,Hampinagar,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560104
+        },
+        "company":{
+            "name":"AllStates"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/souri.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"2",
+        "username":"rahul77",
+        "name":"Rahul",
+        "email":"rahul@gmail.com",
+        "phone":"911076378",
+        "website":"http://rahul.org",
+        "address":{
+            "street":"#89,3th B main 3th cross Rajajinagar",
+            "suite":"4th block,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560103
+        },
+        "company":{
+            "name":"TestYantra"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/rahul.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"3",
+        "username":"zanny99",
+        "name":"Zanny",
+        "email":"zanny@gmail.com",
+        "phone":"789997642",
+        "website":"http://zanny.org",
+        "address":{
+            "street":"#100,1th A main 6th cross Vijayanagar",
+            "suite":"RPC layout,Hampinagar,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560104
+        },
+        "company":{
+            "name":"Yokagawa"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/zanny.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"4",
+        "username":"pranv69",
+        "name":"Pranav",
+        "email":"prani@gmail.com",
+        "phone":"7579302123",
+        "website":"http://prani.org",
+        "address":{
+            "street":"#78,2th A main 6th cross Govindrajnagar",
+            "suite":"Chandralayout,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560100
+        },
+        "company":{
+            "name":"Toyota"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/pranava.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"5",
+        "username":"sanjana42",
+        "name":"Sanjana",
+        "email":"sanj@gmail.com",
+        "phone":"975353819",
+        "website":"http://sanjana.org",
+        "address":{
+            "street":"#106,8th C main 6th cross Vijayanagar",
+            "suite":"RPC layout,Hampinagar,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560104
+        },
+        "company":{
+            "name":"THIS"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/sanjana.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"6",
+        "username":"keerthan420",
+        "name":"Keerthan",
+        "email":"keer@gmail.com",
+        "phone":"911026363",
+        "website":"http://keerthan.org",
+        "address":{
+            "street":"#201,5th A main 6th cross Vijayanagar",
+            "suite":"RPC layout,Hampinagar,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560104
+        },
+        "company":{
+            "name":"Advaryu"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/keer.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"7",
+        "username":"kaushik123",
+        "name":"Kaushisk",
+        "email":"kau@gmail.com",
+        "phone":"123456789",
+        "website":"http://kau.org",
+        "address":{
+            "street":"#201,5th A main 6th cross Vijayanagar",
+            "suite":"RPC layout,Hampinagar,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560104
+        },
+        "company":{
+            "name":"Vrook"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/kau.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"8",
+        "username":"chaithra224",
+        "name":"Chaitra",
+        "email":"chai@gmail.com",
+        "phone":"778355272",
+        "website":"http://chai.org",
+        "address":{
+            "street":"#201,5th A main 6th cross Govindrajnagar",
+            "suite":"BDA complex,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560104
+        },
+        "company":{
+            "name":"Vrook"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/chai.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"9",
+        "username":"girigand",
+        "name":"Girish",
+        "email":"giri@gmail.com",
+        "phone":"456789987",
+        "website":"http://giri.org",
+        "address":{
+            "street":"#51,1th A main 6th cross Harishchandra",
+            "suite":"Basavanagudi,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560069
+        },
+        "company":{
+            "name":"Home"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/giri.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"10",
+        "username":"danesh99",
+        "name":"Danesh",
+        "email":"danesh@gmail.com",
+        "phone":"8951875422",
+        "website":"http://danesh.org",
+        "address":{
+            "street":"#51,1th A main 6th cross Harishchandra",
+            "suite":"Basavanagudi,Bengaluru",
+            "city":"Bengaluru",
+            "zipcode":560069
+        },
+        "company":{
+            "name":"Home"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/danesh.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"11",
+        "username":"tofan44",
+        "name":"Tofan",
+        "email":"tofan@gmail.com",
+        "phone":"8966875422",
+        "website":"http://toofan.org",
+        "address":{
+            "street":"#51,1th A main 6th cross odisha",
+            "suite":"Basavanagudi,Odisha",
+            "city":"Bengaluru",
+            "zipcode":560069
+        },
+        "company":{
+            "name":"Infosys"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/toofan.svg?options%5bmood%5d%5b%5d=happy"
+    },
+    {
+        "id":"12",
+        "username":"monika99",
+        "name":"Monika",
+        "email":"monika@gmail.com",
+        "phone":"9110263636",
+        "website":"http://monika.org",
+        "address":{
+            "street":"#51,1th A main 6th cross odisha",
+            "suite":"Basavanagudi,Odisha",
+            "city":"Bengaluru",
+            "zipcode":560069
+        },
+        "company":{
+            "name":"Infosys"
+        },
+        "image":"https://avatars.dicebear.com/v2/avataaars/monika.svg?options%5bmood%5d%5b%5d=happy"
+    }
+]
